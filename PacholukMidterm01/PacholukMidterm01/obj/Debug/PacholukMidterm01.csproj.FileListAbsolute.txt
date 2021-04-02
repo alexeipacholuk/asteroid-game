@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\Midterm\PacholukMidterm01\PacholukMidterm01\bin\Debug\PacholukMidterm01.exe.config
+D:\VisualStudioProjects\Midterm\PacholukMidterm01\PacholukMidterm01\bin\Debug\PacholukMidterm01.exe
+D:\VisualStudioProjects\Midterm\PacholukMidterm01\PacholukMidterm01\bin\Debug\PacholukMidterm01.pdb
+D:\VisualStudioProjects\Midterm\PacholukMidterm01\PacholukMidterm01\obj\Debug\PacholukMidterm01.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Midterm\PacholukMidterm01\PacholukMidterm01\obj\Debug\PacholukMidterm01.Form1.resources
+D:\VisualStudioProjects\Midterm\PacholukMidterm01\PacholukMidterm01\obj\Debug\PacholukMidterm01.Properties.Resources.resources
+D:\VisualStudioProjects\Midterm\PacholukMidterm01\PacholukMidterm01\obj\Debug\PacholukMidterm01.csproj.GenerateResource.cache
+D:\VisualStudioProjects\Midterm\PacholukMidterm01\PacholukMidterm01\obj\Debug\PacholukMidterm01.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Midterm\PacholukMidterm01\PacholukMidterm01\obj\Debug\PacholukMidterm01.exe
+D:\VisualStudioProjects\Midterm\PacholukMidterm01\PacholukMidterm01\obj\Debug\PacholukMidterm01.pdb
